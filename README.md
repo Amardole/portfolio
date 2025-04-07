@@ -3,7 +3,7 @@
 > Modern responsive portfolio showcasing my full-stack development skills and projects
 
 ## 🚀 Live Demo  
-[![Website](https://amardole.github.io/portfolio/)
+
 
 ## ✨ Features  
 ✅ Fully responsive design  
