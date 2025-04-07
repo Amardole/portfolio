@@ -1,11 +1,9 @@
 # 🌟 Amar Dole's Portfolio
 
-![Portfolio Preview](./screenshots/preview.png)
-
 > Modern responsive portfolio showcasing my full-stack development skills and projects
 
 ## 🚀 Live Demo  
-[![Website](https://img.shields.io/badge/Visit-Live_Site-2ea44f)](https://your-portfolio-url.com)
+[![Website](https://amardole.github.io/portfolio/)
 
 ## ✨ Features  
 ✅ Fully responsive design  
