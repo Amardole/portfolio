@@ -1,4 +1,4 @@
-/* Global Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -124,12 +124,12 @@ nav {
   margin-top: -50px; /* Default for desktop */
 }
 
-/* Remove negative margin on mobile */
+
 @media (max-width: 768px) {
   .hero-content {
     margin-top: 0;
-    flex-direction: column; /* Optional: stack vertically on small screens */
-    gap: 20px; /* Optional: reduce gap for smaller screens */
+    flex-direction: column; 
+    gap: 20px; 
   }
 }
 
@@ -248,7 +248,7 @@ nav {
     font-weight: 600;
 }
 
-/* Exp section*/
+
 /* Experience Section */
 .experience {
   padding: 80px 0;
@@ -381,7 +381,7 @@ nav {
   
   .timeline-date {
     align-self: flex-start;
-    margin-left: 65px; /* Align with text */
+    margin-left: 65px; 
   }
   
   .org-logo {
@@ -935,8 +935,8 @@ footer {
   width: 320px;
   height: 220px;
   object-fit: contain;
-  background-color: white; /* to avoid transparency gaps */
-  padding: 10px; /* some spacing inside frame */
+  background-color: white; 
+  padding: 10px; 
   border-radius: 16px;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease;
@@ -954,8 +954,6 @@ footer {
     transform: translateX(-50%);
   }
 }
-
-/* Remove blue circle marker only from Experience section */
 .experience-timeline .timeline-item::before,
 .experience-timeline .timeline-item.current::before {
   content: none;
