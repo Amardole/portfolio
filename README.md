@@ -1,7 +1,5 @@
 # 🌟 Amar Dole's Portfolio
 
-> Modern responsive portfolio showcasing my full-stack development skills and projects
-
 - **Live Demo** [Live ](https://amardole.github.io/portfolio/)
 
 
